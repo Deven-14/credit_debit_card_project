@@ -1,0 +1,1326 @@
+deven@deven-VirtualBox:~/creditCardProject$ ./a.out
+
+-- Menu --
+
+1. Bank Account 
+2. Credit Card 
+3. Debit Card 
+4. Exit 
+
+Enter Option : 1
+
+
+--Bank Account Menu --
+
+1. Sign Up (Create New Bank Account) 
+2. Login to Existing Bank Account 
+3. Exit 
+
+Enter Option : 0000000021
+
+Entered Wrong Option, Please re-enter
+
+--Bank Account Menu --
+
+1. Sign Up (Create New Bank Account) 
+2. Login to Existing Bank Account 
+3. Exit 
+
+Enter Option : 2
+
+Enter your Bank Account Number : 0000000021
+Enter the Bank Account Pin : 4200
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 1
+
+BankAccount Details: 
+
+Account Number : 0000000021
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : d
+Last Name : q
+
+Address : 
+
+House Number : 1
+Street : q
+City : w
+State : e
+Pincode : 3
+
+Phone Number : 123
+
+Date (DD/MM/YYYY) : 03/02/2021
+Balance : 397000
+Pin : 4200
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 2
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 1
+
+
+Edit Person Details : 
+
+1. Name 
+2. Address 
+3. phoneNumber 
+4. Exit 
+
+Enter Option : 1
+
+
+Edit Name : 
+
+1. First Name 
+2. Last Name 
+3. Exit 
+
+Enter Option : 1
+
+Enter new First Name : Deven
+
+
+Edit Name : 
+
+1. First Name 
+2. Last Name 
+3. Exit 
+
+Enter Option : 3 
+
+--Changes saved--
+
+---Changed Name---
+
+Name : 
+
+First Name : Deven
+Last Name : q
+
+
+
+Edit Person Details : 
+
+1. Name 
+2. Address 
+3. phoneNumber 
+4. Exit 
+
+Enter Option : 4
+
+--Changes saved--
+
+---Changed Person Details---
+
+Person Details : 
+
+Name : 
+
+First Name : Deven
+Last Name : q
+
+Address : 
+
+House Number : 1
+Street : q
+City : w
+State : e
+Pincode : 3
+
+Phone Number : 123
+
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 1
+
+
+Edit Person Details : 
+
+1. Name 
+2. Address 
+3. phoneNumber 
+4. Exit 
+
+Enter Option : 1
+
+
+Edit Name : 
+
+1. First Name 
+2. Last Name 
+3. Exit 
+
+Enter Option : 2
+
+Enter new Last Name : Paramaj
+
+
+Edit Name : 
+
+1. First Name 
+2. Last Name 
+3. Exit 
+
+Enter Option : 3
+
+--Changes saved--
+
+---Changed Name---
+
+Name : 
+
+First Name : Deven
+Last Name : Paramaj
+
+
+
+Edit Person Details : 
+
+1. Name 
+2. Address 
+3. phoneNumber 
+4. Exit 
+
+Enter Option : 2
+
+
+Edit Address : 
+
+1. House Number 
+2. Street 
+3. City 
+4. State 
+5. Pincode 
+6. Exit 
+
+Enter Option : 1
+
+Enter new House number : 567
+
+
+Edit Address : 
+
+1. House Number 
+2. Street 
+3. City 
+4. State 
+5. Pincode 
+6. Exit 
+
+Enter Option : 2
+
+Enter new Street : Basavanagudi-street  
+
+
+Edit Address : 
+
+1. House Number 
+2. Street 
+3. City 
+4. State 
+5. Pincode 
+6. Exit 
+
+Enter Option : 3
+
+Enter new City : Bangalore
+
+
+Edit Address : 
+
+1. House Number 
+2. Street 
+3. City 
+4. State 
+5. Pincode 
+6. Exit 
+
+Enter Option : 4
+
+Enter new State : Karnataka
+
+
+Edit Address : 
+
+1. House Number 
+2. Street 
+3. City 
+4. State 
+5. Pincode 
+6. Exit 
+
+Enter Option : 5
+
+Enter new Pincode : 560090
+
+
+Edit Address : 
+
+1. House Number 
+2. Street 
+3. City 
+4. State 
+5. Pincode 
+6. Exit 
+
+Enter Option : 6
+
+--Changes saved--
+
+---Changed Address---
+
+Address : 
+
+House Number : 567
+Street : Basavanagudi-street
+City : Bangalore
+State : Karnataka
+Pincode : 560090
+
+
+
+Edit Person Details : 
+
+1. Name 
+2. Address 
+3. phoneNumber 
+4. Exit 
+
+Enter Option : 3
+
+Phone Number : 1234567890
+
+
+Edit Person Details : 
+
+1. Name 
+2. Address 
+3. phoneNumber 
+4. Exit 
+
+Enter Option : 4
+
+--Changes saved--
+
+---Changed Person Details---
+
+Person Details : 
+
+Name : 
+
+First Name : Deven
+Last Name : Paramaj
+
+Address : 
+
+House Number : 567
+Street : Basavanagudi-street
+City : Bangalore
+State : Karnataka
+Pincode : 560090
+
+Phone Number : 1234567890
+
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 2
+
+Enter new Balance : 4000000
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 3
+
+--Changes saved--
+
+---Changed BankAccount---
+
+BankAccount Details: 
+
+Account Number : 0000000021
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Deven
+Last Name : Paramaj
+
+Address : 
+
+House Number : 567
+Street : Basavanagudi-street
+City : Bangalore
+State : Karnataka
+Pincode : 560090
+
+Phone Number : 1234567890
+
+Date (DD/MM/YYYY) : 03/02/2021
+Balance : 4e+06
+Pin : 4200
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 1
+
+BankAccount Details: 
+
+Account Number : 0000000021
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Deven
+Last Name : Paramaj
+
+Address : 
+
+House Number : 567
+Street : Basavanagudi-street
+City : Bangalore
+State : Karnataka
+Pincode : 560090
+
+Phone Number : 1234567890
+
+Date (DD/MM/YYYY) : 03/02/2021
+Balance : 4e+06
+Pin : 4200
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 2
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 2
+
+Enter new Balance : 400000
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 3
+
+--Changes saved--
+
+---Changed BankAccount---
+
+BankAccount Details: 
+
+Account Number : 0000000021
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Deven
+Last Name : Paramaj
+
+Address : 
+
+House Number : 567
+Street : Basavanagudi-street
+City : Bangalore
+State : Karnataka
+Pincode : 560090
+
+Phone Number : 1234567890
+
+Date (DD/MM/YYYY) : 03/02/2021
+Balance : 400000
+Pin : 4200
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 1
+
+BankAccount Details: 
+
+Account Number : 0000000021
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Deven
+Last Name : Paramaj
+
+Address : 
+
+House Number : 567
+Street : Basavanagudi-street
+City : Bangalore
+State : Karnataka
+Pincode : 560090
+
+Phone Number : 1234567890
+
+Date (DD/MM/YYYY) : 03/02/2021
+Balance : 400000
+Pin : 4200
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 3
+
+The Associated CreditCard Numbers are : 
+1. 0000000000000062
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 4
+
+The Associated DebitCard Numbers are : 
+1. 0000000000000063
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 5
+
+Thank You 
+
+--Bank Account Menu --
+
+1. Sign Up (Create New Bank Account) 
+2. Login to Existing Bank Account 
+3. Exit 
+
+Enter Option : 1
+
+Enter Bank Account Details : 
+
+Enter Person Details : 
+
+Enter Name : 
+
+First Name : Diya
+Last Name : S
+
+Enter Address : 
+
+House Number : 123
+Street : KGF street
+City : Kolar
+State : Karnataka
+Pincode : 560010
+
+Phone Number (10 digits) : 0987654321 
+
+Initial deposit : 900000
+
+Enter a 4 Digit Pin for your new Bank Account : 4200
+BankAccount Details: 
+
+Account Number : 0000000022
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Diya
+Last Name : S
+
+Address : 
+
+House Number : 123
+Street : KGF street
+City : Kolar
+State : Karnataka
+Pincode : 560010
+
+Phone Number : 0987654321
+
+Date (DD/MM/YYYY) : 28/02/2021
+Balance : 900000
+Pin : 4200
+
+
+Edit BankAccount Details : 
+
+1. Holder Details 
+2. Balance 
+3. Exit 
+
+Enter Option : 3
+
+--Changes saved--
+
+---Changed BankAccount---
+
+BankAccount Details: 
+
+Account Number : 0000000022
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Diya
+Last Name : S
+
+Address : 
+
+House Number : 123
+Street : KGF street
+City : Kolar
+State : Karnataka
+Pincode : 560010
+
+Phone Number : 0987654321
+
+Date (DD/MM/YYYY) : 28/02/2021
+Balance : 900000
+Pin : 4200
+
+
+--Bank Account Menu --
+
+1. Sign Up (Create New Bank Account) 
+2. Login to Existing Bank Account 
+3. Exit 
+
+Enter Option : 2
+
+Enter your Bank Account Number : 0000000022
+Enter the Bank Account Pin : 4200
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 1
+
+BankAccount Details: 
+
+Account Number : 0000000022
+Pin : 4200
+Person Details : 
+
+Name : 
+
+First Name : Diya
+Last Name : S
+
+Address : 
+
+House Number : 123
+Street : KGF street
+City : Kolar
+State : Karnataka
+Pincode : 560010
+
+Phone Number : 0987654321
+
+Date (DD/MM/YYYY) : 28/02/2021
+Balance : 900000
+Pin : 4200
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 3
+
+The Associated CreditCard Numbers are : 
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 4
+
+The Associated DebitCard Numbers are : 
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Edit 
+3. Display associated Credit Cards 
+4. Display associated Debit Cards 
+5. Exit 
+
+Enter Option : 5
+
+Thank You 
+
+--Bank Account Menu --
+
+1. Sign Up (Create New Bank Account) 
+2. Login to Existing Bank Account 
+3. Exit 
+
+Enter Option : 3
+
+-- Thank You -- 
+
+-- Menu --
+
+1. Bank Account 
+2. Credit Card 
+3. Debit Card 
+4. Exit 
+
+Enter Option : 2
+
+
+-- Credit Card Menu --
+
+1. Create a New Credit Card 
+2. Login to an Existing Credit Card 
+3. Exit 
+
+Enter Option : 2
+
+Enter your Credit Card Number : 0000000000000062
+Enter the Card Pin : 4200
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 1
+
+Credit Card Details : 
+
+Bank Account Number : 0000000021
+Credit Card Number : 0000000000000062
+Issue Date : 
+Date (DD/MM/YYYY) : 03/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 03/02/2025
+CVV : 971
+Pin : 4200
+Limit : 40000
+Balance : 37999
+Remaining To Pay : 1000
+Payment Date : 
+Date (DD/MM/YYYY) : 26/02/2021
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 2
+
+Enter the amount you want to Credit : 4000
+ -- Pay -- 
+ -- Credit -- 
+Enter Purpose : smoothie
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 1
+
+Credit Card Details : 
+
+Bank Account Number : 0000000021
+Credit Card Number : 0000000000000062
+Issue Date : 
+Date (DD/MM/YYYY) : 03/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 03/02/2025
+CVV : 971
+Pin : 4200
+Limit : 40000
+Balance : 35999
+Remaining To Pay : 4000
+Payment Date : 
+Date (DD/MM/YYYY) : 26/03/2021
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 4
+
+1. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 03/02/2021
+Transaction Amount : 2000
+Transaction Purpose : trial
+
+2. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 03/02/2021
+Transaction Amount : 1000
+Transaction Purpose : pay
+
+3. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 1000
+Transaction Purpose : pay
+
+4. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 4000
+Transaction Purpose : smoothie
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 3
+
+Enter the amount you want to Pay : 2000
+ -- Pay -- 
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 4
+
+1. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 03/02/2021
+Transaction Amount : 2000
+Transaction Purpose : trial
+
+2. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 03/02/2021
+Transaction Amount : 1000
+Transaction Purpose : pay
+
+3. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 1000
+Transaction Purpose : pay
+
+4. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 4000
+Transaction Purpose : smoothie
+
+5. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 2000
+Transaction Purpose : pay
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 5
+
+Thank You 
+
+-- Credit Card Menu --
+
+1. Create a New Credit Card 
+2. Login to an Existing Credit Card 
+3. Exit 
+
+Enter Option : 1
+
+Enter your Bank Account Number (10 digits) : 0000000022    
+Enter your Bank Account Pin : 4200
+
+Enter a 4 Digit Pin for your new Card : 4200
+Credit Card Details : 
+
+Bank Account Number : 0000000022
+Credit Card Number : 0000000000000064
+Issue Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 28/02/2025
+CVV : 745
+Pin : 4200
+Limit : 40000
+Balance : 39999
+Remaining To Pay : 0
+Payment Date : 
+Date (DD/MM/YYYY) : 26/03/2021
+
+
+-- Credit Card Menu --
+
+1. Create a New Credit Card 
+2. Login to an Existing Credit Card 
+3. Exit 
+
+Enter Option : 2
+
+Enter your Credit Card Number : 000000000000064 
+Enter the Card Pin : 4200
+-- Wrong Pin --
+
+
+-- Credit Card Menu --
+
+1. Create a New Credit Card 
+2. Login to an Existing Credit Card 
+3. Exit 
+
+Enter Option : 2
+
+Enter your Credit Card Number : 0000000000000064
+Enter the Card Pin : 4200
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 1
+
+Credit Card Details : 
+
+Bank Account Number : 0000000022
+Credit Card Number : 0000000000000064
+Issue Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 28/02/2025
+CVV : 745
+Pin : 4200
+Limit : 40000
+Balance : 39999
+Remaining To Pay : 0
+Payment Date : 
+Date (DD/MM/YYYY) : 26/03/2021
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 2
+
+Enter the amount you want to Credit : 9000  
+ -- Credit -- 
+Enter Purpose : coffee
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 4
+
+1. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 9000
+Transaction Purpose : coffee
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 3
+
+Enter the amount you want to Pay : 3000
+ -- Pay -- 
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 4
+
+1. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 9000
+Transaction Purpose : coffee
+
+2. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 3000
+Transaction Purpose : pay
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. Credit Amount
+3. Pay Bill 
+4. Statement 
+5. Exit 
+
+Enter Option : 5
+
+Thank You 
+
+-- Credit Card Menu --
+
+1. Create a New Credit Card 
+2. Login to an Existing Credit Card 
+3. Exit 
+
+Enter Option : 3
+
+-- Thank You -- 
+
+-- Menu --
+
+1. Bank Account 
+2. Credit Card 
+3. Debit Card 
+4. Exit 
+
+Enter Option : 3
+
+
+-- Debit Card Menu --
+
+1. Create a New Debit Card 
+2. Login to an Existing Debit Card 
+3. Exit 
+
+Enter Option : 1
+
+Enter your Bank Account Number (10 digits) : 0000000022
+Enter your Bank Account Pin : 4200
+
+Enter a 4 Digit Pin for your new Card : 4200
+Debit Card Details : 
+
+Bank Account Number : 0000000022
+Debit Card Number : 0000000000000065
+Issue Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 28/02/2025
+CVV : 784
+Balance : 897000
+
+
+-- Debit Card Menu --
+
+1. Create a New Debit Card 
+2. Login to an Existing Debit Card 
+3. Exit 
+
+Enter Option : 2
+
+Enter your Debit Card Number : 0000000000000065
+Enter the Card Pin : 4200
+
+-- Login Menu -- 
+
+1. Show Details 
+2. WithDraw 
+3. Deposit 
+4. Statement 
+5. Exit 
+
+Enter Option : 1
+
+Debit Card Details : 
+
+Bank Account Number : 0000000022
+Debit Card Number : 0000000000000065
+Issue Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 28/02/2025
+CVV : 784
+Balance : 897000
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. WithDraw 
+3. Deposit 
+4. Statement 
+5. Exit 
+
+Enter Option : 2
+
+Enter the amount you want to WithDraw : 8000
+ -- Withdraw -- 
+Enter Purpose : shoes
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. WithDraw 
+3. Deposit 
+4. Statement 
+5. Exit 
+
+Enter Option : 3
+
+Enter the amount you want to Deposit : 5000
+ -- Deposit -- 
+
+-- Login Menu -- 
+
+1. Show Details 
+2. WithDraw 
+3. Deposit 
+4. Statement 
+5. Exit 
+
+Enter Option : 4
+
+1. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 8000
+Transaction Purpose : shoes
+
+2. Statement : 
+
+Transaction Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Transaction Amount : 5000
+Transaction Purpose : deposit
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. WithDraw 
+3. Deposit 
+4. Statement 
+5. Exit 
+
+Enter Option : 1
+
+Debit Card Details : 
+
+Bank Account Number : 0000000022
+Debit Card Number : 0000000000000065
+Issue Date : 
+Date (DD/MM/YYYY) : 28/02/2021
+Expiry Date : 
+Date (DD/MM/YYYY) : 28/02/2025
+CVV : 784
+Balance : 894000
+
+
+
+-- Login Menu -- 
+
+1. Show Details 
+2. WithDraw 
+3. Deposit 
+4. Statement 
+5. Exit 
+
+Enter Option : 5
+
+Thank You 
+
+-- Debit Card Menu --
+
+1. Create a New Debit Card 
+2. Login to an Existing Debit Card 
+3. Exit 
+
+Enter Option : 3
+
+-- Thank You -- 
+
+-- Menu --
+
+1. Bank Account 
+2. Credit Card 
+3. Debit Card 
+4. Exit 
+
+Enter Option : 4
+
+-- Thank You -- 
